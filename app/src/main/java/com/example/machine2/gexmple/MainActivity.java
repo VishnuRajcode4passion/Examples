@@ -9,8 +9,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+<<<<<<< HEAD
 
 public class MainActivity extends Activity {
+=======
+//this is main activity
+public class MainActivity extends AppCompatActivity {
+>>>>>>> 134c0bfb2220afe53bab19f8ca51d00bef95a745
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
