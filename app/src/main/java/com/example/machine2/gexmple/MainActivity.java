@@ -17,6 +17,10 @@ public class MainActivity extends Activity {
 public class MainActivity extends AppCompatActivity {
 >>>>>>> 134c0bfb2220afe53bab19f8ca51d00bef95a745
 
+
+    //Initilize variables
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
